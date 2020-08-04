@@ -1,4 +1,4 @@
-# 외래 관광객 의 언어 만족도 개선을 위한 방안
+# 외래 관광객 
 
 - 한국 여행에 대한 항목별 만족도 최하위인 언어 만족도 개선 필요
 
@@ -8,4 +8,9 @@
 
 - 각 군집별 마케팅 전략 및 언어 문제 개선점 제시
 
-  
+-   
+
+
+http://tourbigdata.kr/
+http://stat.mcst.go.kr/mcst/WebPortal/public/main/main.html
+https://www.kcti.re.kr/
