@@ -14,3 +14,5 @@
 http://tourbigdata.kr/
 http://stat.mcst.go.kr/mcst/WebPortal/public/main/main.html
 https://www.kcti.re.kr/
+
+http://tourbigdata.kr/down/2017_08.pdf
