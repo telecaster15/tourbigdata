@@ -23,12 +23,13 @@ http://tourbigdata.kr/down/2017_08.pdf
 
 http://kto.visitkorea.or.kr/kor/notice/data/statis/tstatus/forstatus2/board/view.kto?id=441612&isNotice=false&instanceId=425&rnum=1#
 
-동반자 현황 : Q2A1
-주요 방한목적 : Q5_1
-주요 활동 참여 여부 : QQ_1 ~ QQ_14
-여행 형태 : Q12
-1인 평균 지출 경비 총액 : CQ14_1T
-국가 : D_COU
-성별 : D_GEN
-연령별 : D_AGE
-재방문 의향 : Q16_a
+<b>컬럼 설명</b>
+- 동반자 현황 : Q2A1
+- 주요 방한목적 : Q5_1
+- 주요 활동 참여 여부 : QQ_1 ~ QQ_14
+- 여행 형태 : Q12
+- 1인 평균 지출 경비 총액 : CQ14_1T
+- 국가 : D_COU
+- 성별 : D_GEN
+- 연령별 : D_AGE
+- 재방문 의향 : Q16_a
