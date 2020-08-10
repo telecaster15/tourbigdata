@@ -25,6 +25,8 @@ http://kto.visitkorea.or.kr/kor/notice/data/statis/tstatus/forstatus2/board/view
 
 https://m.blog.naver.com/PostView.nhn?blogId=ibuyworld&logNo=221219161573&proxyReferer=https:%2F%2Fwww.google.com%2F
 
+https://wooiljeong.github.io/python/folium/
+
 <b>컬럼 설명</b>
 - 동반자 현황 : Q2A1
 - 주요 방한목적 : Q5_1
